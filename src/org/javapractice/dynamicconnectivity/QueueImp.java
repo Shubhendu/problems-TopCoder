@@ -3,10 +3,7 @@
  */
 package org.javapractice.dynamicconnectivity;
 
-import java.util.Collection;
 import java.util.Iterator;
-import java.util.PriorityQueue;
-import java.util.Queue;
 
 /**
  * @author shusingh
